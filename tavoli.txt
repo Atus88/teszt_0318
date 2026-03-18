@@ -2,3 +2,4 @@ tavoli
 sor közben
 new_loc
 local
+online
